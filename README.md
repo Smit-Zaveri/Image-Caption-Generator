@@ -30,7 +30,8 @@ image-caption-generator/
 1. **Clone Repository**
    ```bash
    git clone https://github.com/your-repo/image-caption-generator.git
-   cd image-caption-generator```
+   cd image-caption-generator
+    ```
 
 2. **Backend Setup**
    ```
