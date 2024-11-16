@@ -29,7 +29,7 @@ image-caption-generator/
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/your-repo/image-caption-generator.git
+   git clone https://github.com/Smit-Zaveri/Image-Caption-Generator.git
    cd image-caption-generator
     ```
 
